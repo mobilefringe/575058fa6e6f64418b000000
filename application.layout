@@ -132,8 +132,8 @@
             <div class="footer_col">
                 <h5 class="heading">NEWSLETTER SUBSCRIPTION</h5>
                 <div class="newsletter_div">
-                    <form action="http://mobilefringe.createsend.com/t/d/s/kkuyhl/" method="post" id="newsletter_form">
-                        <input name="cm-kkuyhl-kkuyhl" type="text" placeholder="Susbcribe to Newsletter" class="newsletter_control" required />
+                    <form action="http://mobilefringe.createsend.com/t/d/s/urall/" method="post" id="newsletter_form">
+                        <input name="cm-urall-urall" type="text" placeholder="Susbcribe to Newsletter" class="newsletter_control" required />
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
                             <input id="newsletter_agree" type="checkbox" />
@@ -161,7 +161,7 @@
                 Highway 65 and Galleria Boulevard, Roseville, California
             </p>
             <p class="footer_text">
-                <a href="tel:7025648595">702.564.8595</a> | <a href="#">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:916-781-2400">916-781-2400</a> | <a href="#">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
           <a href="http://www.vestar.com/" target="_blank">
                 <img src="http://assets.codecloudapp.com/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
@@ -186,7 +186,7 @@
                         Highway 65 and Galleria Boulevard, Roseville, California
                     </p>
                     <p class="footer_text">
-                <a href="tel:7025648595">702.564.8595</a> | <a href="#">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:916-781-2400">916-781-2400</a> | <a href="#">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
                 </div>
             </div>
