@@ -14,8 +14,10 @@
             <li href="#" class="show_all_stores">All</li>
             <li class="show_cat_stores" data-id="4235">Chinese Restaurant</li>
             <li class="show_cat_stores" data-id="4237">Hamburger Restaurant</li>
-            <li class="show_cat_stores" data-id="4042">Barbeque Restaurant</li>
-            <li class="show_cat_stores" data-id="4044">Health Food Restaurant</li>
+            <li class="show_cat_stores" data-id="4266">Icecream Shop</li>
+            <li class="show_cat_stores" data-id="4229">Juice Shop</li>
+            <li class="show_cat_stores" data-id="4230">Mexican Restaurant</li>
+            <li class="show_cat_stores" data-id="4236">Sandwich Shop</li>
         </ul>
     </div>
     <div class="store_nav hidden_phone">
@@ -37,10 +39,12 @@
                 </a>
                 <ul id="category_container" class="dropdown-menu" aria-labelledby="cat_dd">
                     <li href="#" class="show_all_stores">All</li>
-                    <li class="show_cat_stores" data-id="4035">Restaurant</li>
-                    <li class="show_cat_stores" data-id="4024">Pizza Restaurant</li>
-                    <li class="show_cat_stores" data-id="4042">Barbeque Restaurant</li>
-                    <li class="show_cat_stores" data-id="4044">Health Food Restaurant</li>
+                      <li class="show_cat_stores" data-id="4235">Chinese Restaurant</li>
+            <li class="show_cat_stores" data-id="4237">Hamburger Restaurant</li>
+            <li class="show_cat_stores" data-id="4266">Icecream Shop</li>
+            <li class="show_cat_stores" data-id="4229">Juice Shop</li>
+            <li class="show_cat_stores" data-id="4230">Mexican Restaurant</li>
+            <li class="show_cat_stores" data-id="4236">Sandwich Shop</li>
                 </ul>
             </div>
         </div>
@@ -91,14 +95,18 @@
     
     function renderPage(){
         var stores = [];
-        var s1 = getStoresListByCategoryID(4035)
-        var s2 = getStoresListByCategoryID(4024)
-        var s3 = getStoresListByCategoryID(4042)
-        var s4 = getStoresListByCategoryID(4044)
+        var s1 = getStoresListByCategoryID(4235)
+        var s2 = getStoresListByCategoryID(4237)
+        var s3 = getStoresListByCategoryID(4266)
+        var s4 = getStoresListByCategoryID(4229)
+         var s5 = getStoresListByCategoryID(4230)
+        var s6 = getStoresListByCategoryID(4236)
         stores = stores.concat(s1)
         stores = stores.concat(s2)
         stores = stores.concat(s3)
         stores = stores.concat(s4)
+        stores = stores.concat(s5)
+        stores = stores.concat(s6)
         var newarr = [];
         var unique = {};
         $.each(stores, function(i,v){
