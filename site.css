@@ -13,6 +13,13 @@ $animation_color: #886334;
     color: $layout_color;
 }
 
+.hours_clock{
+    width:40px;
+    float:left;
+    margin-right:20px;
+    margin-bottom:5px;
+}
+
 .animated_btn:before{
     background: $animation_color;
 }
