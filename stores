@@ -79,8 +79,8 @@
 <script>
     $(document).ready(function(e){
         init(e);
-        loadMallDataCached(renderPage);
         $('#category_container, #category_container2').prepend('<li href="#" class="show_all_stores">All</li>');
+        loadMallDataCached(renderPage);
     })
     
     function renderPage(){
