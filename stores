@@ -18,7 +18,7 @@
                 <a class="active_store_nav" href="/stores">STORES</a>
             </div>
             <div class="col-md-3">
-                <a href="/map">CENTER MAP</a>
+                <!--<a href="/map">CENTER MAP</a>-->
             </div>
             <div class="col-md-4">
                 <span>Sort By: </span>
