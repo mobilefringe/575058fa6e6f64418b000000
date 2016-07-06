@@ -12,7 +12,7 @@
             <p class="side_link">
                  1180-1256 Galleria Boulevard, Roseville, CA 95678
             </p>
-            <a class="main_btn block animated_btn" href="https://www.google.com/maps/dir//38.773385,-121.2632579/@38.773385,-121.263258,14z?hl=en-US" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.com/maps/dir//38.7749053,-121.2646667/@38.774905,-121.264667,16z?hl=en-US" target="_blank" >Driving Direction</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
