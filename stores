@@ -88,6 +88,7 @@
         renderStoreList('#store_list_container2','#store_list_template2', stores, "stores","M", "Z" );
         var categories = getStoreCategories();
         renderGeneral('#category_container, #category_container2', '#category_template', categories);
+        $('#category_container, #category_container2').prepend('<li href="#" class="show_all_stores">All</li>');
         show_content();
         show_cat_stores();
     }
