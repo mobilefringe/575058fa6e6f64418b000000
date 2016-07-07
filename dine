@@ -97,7 +97,7 @@
         var stores = [];
         var s1 = getStoresListByCategoryID(4235)
         var s2 = getStoresListByCategoryID(4237)
-        var s3 = getStoresListByCategoryID(4266)
+        var s3 = getStoresListByCategoryID(4226)
         var s4 = getStoresListByCategoryID(4229)
          var s5 = getStoresListByCategoryID(4230)
         var s6 = getStoresListByCategoryID(4236)
