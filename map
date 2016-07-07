@@ -40,8 +40,8 @@
 		$('#png_map').smoothZoom({
 		   height: 496,
 		    width: 619,
-		    initial_ZOOM: 26,
-			zoom_MIN: 26,
+		    initial_ZOOM: 20,
+			zoom_MIN: 20,
 			zoom_MAX: 100,
 			responsive: true,
 		    responsive_maintain_ratio: true,
