@@ -103,12 +103,14 @@
         var s4 = getStoresListByCategoryID(4229)
          var s5 = getStoresListByCategoryID(4230)
         var s6 = getStoresListByCategoryID(4236)
+         var s7 = getStoresListByCategoryID(4224)
         stores = stores.concat(s1)
         stores = stores.concat(s2)
         stores = stores.concat(s3)
         stores = stores.concat(s4)
         stores = stores.concat(s5)
         stores = stores.concat(s6)
+        stores = stores.concat(s7)
         var newarr = [];
         var unique = {};
         $.each(stores, function(i,v){
