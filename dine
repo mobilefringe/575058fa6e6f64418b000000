@@ -14,7 +14,7 @@
             <li href="#" class="show_all_stores">All</li>
             <li class="show_cat_stores" data-id="4235">Chinese Restaurant</li>
             <li class="show_cat_stores" data-id="4237">Hamburger Restaurant</li>
-            <li class="show_cat_stores" data-id="4266">Icecream Shop</li>
+            <li class="show_cat_stores" data-id="4226">Icecream Shop</li>
             <li class="show_cat_stores" data-id="4229">Juice Shop</li>
             <li class="show_cat_stores" data-id="4230">Mexican Restaurant</li>
             <li class="show_cat_stores" data-id="4236">Sandwich Shop</li>
@@ -41,7 +41,7 @@
                     <li href="#" class="show_all_stores">All</li>
                       <li class="show_cat_stores" data-id="4235">Chinese Restaurant</li>
             <li class="show_cat_stores" data-id="4237">Hamburger Restaurant</li>
-            <li class="show_cat_stores" data-id="4266">Icecream Shop</li>
+            <li class="show_cat_stores" data-id="4226">Icecream Shop</li>
             <li class="show_cat_stores" data-id="4229">Juice Shop</li>
             <li class="show_cat_stores" data-id="4230">Mexican Restaurant</li>
             <li class="show_cat_stores" data-id="4236">Sandwich Shop</li>
