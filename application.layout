@@ -57,7 +57,7 @@
     
     <!-- Site data -->
     <script>
-        setEndPoint('//creekside.mallmaverick.com/api/v3/creekside/all.json');
+        setEndPoint('//twinpines.mallmaverick.com/api/v3/twinpines/all.json');
     </script>
 </head>
 
