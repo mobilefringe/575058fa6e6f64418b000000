@@ -38,8 +38,8 @@
         
         $("#png_map").attr("src", getPNGMapURL())
 		$('#png_map').smoothZoom({
-		    height: 2500,
-		    width: 2500,
+		    height: 496,
+		    width: 619,
 		    initial_ZOOM: 20,
 			zoom_MIN: 20,
 			zoom_MAX: 100,
