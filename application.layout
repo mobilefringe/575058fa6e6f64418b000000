@@ -179,7 +179,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2017 Creekside Town Center
+                    &copy; Copyright <span id="current_year"></span> Creekside Town Center
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
