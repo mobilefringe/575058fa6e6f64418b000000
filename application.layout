@@ -162,7 +162,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 Creekside Town Center
+                &copy; Copyright <span id="current_year" class="current_year"></span> Creekside Town Center
             </p>
             <p class="footer_text">
                 1180-1256 Galleria Boulevard, Roseville, CA 95678
